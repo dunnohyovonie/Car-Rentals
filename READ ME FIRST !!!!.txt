@@ -1,0 +1,11 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+USER    username :dunnohyovonie@gmail.com
+        password :123
+
+
+
+ADMIN   username:admin
+        password:12345 
+
